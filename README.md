@@ -6,7 +6,8 @@ This installer resolves the following common issues on Apple Silicon:
 
 1. "ERROR: Failed building wheel for pandas"
 2. "ERROR: Failed to build installable wheels for some pyproject.toml based projects (pandas)"
-3. "AttributeError: module 'd2l.torch' has no attribute 'train_ch3'"
+3. "ImportError: cannot import name 'ABCIndex' from 'pandas.core.dtypes.generic'"
+4. "AttributeError: module 'd2l.torch' has no attribute 'train_ch3'"
 
 ## Prepare
 
